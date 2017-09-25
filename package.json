@@ -1,0 +1,21 @@
+{
+  "name": "nodewithexpress",
+  "version": "1.0.0",
+  "description": "Creating a webserver using node and express npm package",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "Node",
+    "Server",
+    "REST"
+  ],
+  "author": "Paul Canty",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "hbs": "^4.0.0"
+  }
+}
